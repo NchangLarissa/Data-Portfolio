@@ -1,6 +1,5 @@
 SELECT*
 FROM layoffs;
--- creating a second table to work on
 CREATE TABLE layoffs_staging
 LIKE layoffs;
 SELECT*
@@ -29,7 +28,6 @@ SELECT*
 FROM layoffs_staging
 WHERE company = 'casper';
 
--- Removing duplicates
 WITH duplicate_cte AS 
 (
 SELECT*,
