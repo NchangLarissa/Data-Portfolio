@@ -3,8 +3,7 @@ This repository contains a collection of some of my projects using tools like SQ
 Survey for Data Science Jobs-Dashboard
 
 
-## A For the Powerbi Dashboard, Here are the steps taken to do it
-
+## A. The Powerbi Dashboard for Survey
 
 ## Problem Statement
 
